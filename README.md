@@ -25,9 +25,9 @@ Enter the name of the city in the search bar and click on the 'Search' button. T
 
 
 ## Links 
-[Github]
+[Github](https://github.com/sunainaojha/weather-dashboard)
 
-[live UrL]
+[live UrL](https://sunainaojha.github.io/weather-dashboard/)
 
 
 
