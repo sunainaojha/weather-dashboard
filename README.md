@@ -19,6 +19,9 @@ Enter the name of the city in the search bar and click on the 'Search' button. T
 ## Technologies
 * HTML
 * CSS
+* Bootstrap
+* Jquery
+* JavaScript
 
 
 ## Links 
